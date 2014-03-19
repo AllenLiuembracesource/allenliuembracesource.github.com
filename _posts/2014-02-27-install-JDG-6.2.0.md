@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "install JDG 6.2.0"
+title: "Install JDG 6.2.0"
 description: ""
 category: ""
 tags: []
