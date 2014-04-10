@@ -11,3 +11,5 @@ tags: [Git]
 
 test rebase  15:22
 git rebase master test
+
+test rebase  15:26
