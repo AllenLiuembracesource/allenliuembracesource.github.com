@@ -8,3 +8,6 @@ tags: [Git]
 
 
 # Git Branch Use
+
+test rebase  15:22
+git rebase master test
