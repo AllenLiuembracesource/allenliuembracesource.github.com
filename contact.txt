@@ -7,3 +7,5 @@ test mergetool on master
 test mergertool2 on test
 
 push test
+
+add new line push origin
