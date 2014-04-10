@@ -4,3 +4,4 @@ add on 15:33
 add pick 15:46
 
 test mergetool on master
+test mergertool2 on test
