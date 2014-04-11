@@ -13,6 +13,4 @@ add new line push origin
 
 test push 10:58
 
-
-
-test rev 2 16:19
+test rev
